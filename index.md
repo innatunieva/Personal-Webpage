@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Inessa Tunieva's webpage
 
 You can use the [editor on GitHub](https://github.com/innatunieva/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
