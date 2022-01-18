@@ -1,6 +1,6 @@
 ## Main Page 
 
-
+[CV](https://github.com/innatunieva/Personal-Webpage/raw/gh-pages/Resume.pdf)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
